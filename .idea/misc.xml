@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/bg_home_curve.xml" value="0.18" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/bg_home_wave.xml" value="0.18" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/ic_business.xml" value="0.18" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/ic_date.xml" value="0.18" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/ic_entertaiment.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/ic_headlines.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/layout/activity_main.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/layout/activity_news.xml" value="0.3625" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/layout/activity_open_news.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/layout/item_main_grid.xml" value="0.3625" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/layout/list_item_berita.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/Materials/IndoNews/app/src/main/res/menu/menu_open_news.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/drawable/bg_home_curve.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/drawable/bg_home_wave.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/drawable/ic_date.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/drawable/ic_headlines.xml" value="0.1935" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/layout/activity_main.xml" value="0.4357405140758874" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/layout/activity_news.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/layout/activity_open_news.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/layout/item_main_grid.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/layout/list_item_berita.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/layout/list_item_news.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app/app/src/main/res/menu/menu_open_news.xml" value="0.3625" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/drawable/bg_home_curve.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/drawable/bg_home_wave.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/drawable/ic_business.xml" value="0.1935" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/drawable/ic_entertaiment.xml" value="0.2885" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/layout/activity_news.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/layout/activity_open_news.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/layout/item_main_grid.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/layout/list_item_news.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/fwill/Android Studio/finalexam_newsupdate_app_modified/app/src/main/res/menu/menu_open_news.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
